@@ -1,7 +1,8 @@
 ### Hi, I'm Débora
 
 <p align="left">
-<a href="https://linkedin.com/in/debora-rebelatto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debora-rebelatto" height="15" width="40" /></a>
+<a href="https://linkedin.com/in/debora-rebelatto" target="blank"><img align="center" src="./icons/linkedin.svg" alt="debora-rebelatto" height="15" width="40" /></a>
+<a href="https://gitlab.com/debora.rebelatto" target="blank"><img align="center" src="./icons/gitlab.png" alt="debora-rebelatto" height="20" /></a>
 </p>
 
 I'm a software developer from Brazil
