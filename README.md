@@ -4,8 +4,6 @@
 <a href="https://gitlab.com/debora.rebelatto" target="blank"><img align="center" src="./icons/gitlab.png" alt="debora-rebelatto" height="20" /></a>	
 </p>	
 
-- 🌱 I’m currently learning Flutter and React Native	
-
 <h3 align="left">Languages and Tools:</h3>	
 
 <p align="left">	
